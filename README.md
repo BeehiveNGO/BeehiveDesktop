@@ -4,4 +4,4 @@ Build files for Beehive's desktop application developed using [Electron](http://
 
 ## Notes
 
-* no notes
+* No notes
